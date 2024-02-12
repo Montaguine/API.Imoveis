@@ -1,0 +1,6 @@
+@API.Imoveis_HostAddress = http://localhost:5220
+
+GET {{API.Imoveis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
